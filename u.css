@@ -1,0 +1,15 @@
+.a{
+    height: 110px;
+    /* background-color: rgb(0, 0, 0); */
+    border: 2px solid rgb(0, 158, 0);
+    border-radius: 15px;
+}
+
+h1{
+    color: rgb(0, 158, 0);
+    font-family: 'Itim';
+    display: inline;
+    margin-top: 1px;
+    font-size: 70px;
+    padding-bottom: 30px;
+}
